@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Raj Mahamad Hawari 
 
-<!--
-**rajmahamadhawari/rajmahamadhawari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science & Information Technology student at Tribhuvan University, Nepal.
 
-Here are some ideas to get you started:
+I build things for the web and mobile. Currently expanding my skills and building my project portfolio for Master's applications (2027 intake).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+
+**Web**
+- HTML, CSS
+
+**Mobile**
+- Flutter, Dart
+
+**Programming**
+- C++, C#
+
+**Tools**
+- Git, GitHub, VS Code, Android Studio
+
+
+## Projects
+
+I am actively building my portfolio. Projects will appear here soon.
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| *(Coming soon)* | Personal portfolio website | HTML, CSS |
+| *(Coming soon)* | Simple mobile utility app | Flutter, Dart |
+
+
+## Current Focus
+
+- Completing my Bachelor's degree (expected [Month Year])
+- Building 2–3 solid projects to showcase my skills
+- Preparing for IELTS and Master's applications
+
+
+## Connect With Me
+
+- **LinkedIn**: www.linkedin.com/in/raj-mahamad-hawari-9751502a4
+- **Email**: rajmahamadhawari9@gmail.com
+
+
+*This profile is a work in progress — just like me.*
