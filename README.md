@@ -1,6 +1,6 @@
 # Hi, I'm Raj Mahamad Hawari 
 
-🎓 Final-year Computer Science & Information Technology student at Tribhuvan University, Nepal.
+Final-year Computer Science & Information Technology student at Tribhuvan University, Nepal.
 
 I build things for the web and mobile. Currently expanding my skills and building my project portfolio for Master's applications (2027 intake).
 
