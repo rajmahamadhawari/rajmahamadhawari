@@ -39,7 +39,7 @@ I am actively building my portfolio. Projects will appear here soon.
 
 ## Connect With Me
 
-- **LinkedIn**: www.linkedin.com/in/raj-mahamad-hawari-9751502a4
+- **LinkedIn**: www.linkedin.com/in/raj-mahamad-hawari
 - **Email**: rajmahamadhawari9@gmail.com
 
 
